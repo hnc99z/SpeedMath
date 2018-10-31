@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SpeedMath</string>
+    <string name="best">BEST: %1$s</string>
+    <string name="score">SCORE: %1$s</string>
+    <string name="game_over">GAME OVER</string>
+    <string name="your_score" formated="false">YOUR SCORE: %1$s</string>
+    <string name="crazy_math">CRAZY MATH</string>
+</resources>
